@@ -55,11 +55,11 @@ To get a local copy up and running, follow these simple steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Stephen-Garry-Git/fitburst-gym-website.git](https://github.com/Stephen-Garry-Git/fitburst-gym-website.git)
+    git clone [https://github.com/Stephen-Garry-Git/FitBurst.git](https://github.com/Stephen-Garry-Git/FitBurst.git)
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd fitburst-gym-website
+    cd FitBurst
     ```
 3.  **Open `index.html` in your web browser:**
     You can simply double-click the `index.html` file or use a live server extension in your code editor (e.g., Live Server for VS Code).
